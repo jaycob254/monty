@@ -8,3 +8,4 @@ Implement the nop opcode
 Implement the sub opcode
 Implement the div opcode
 Implement the mul opcode
+Implement the mod opcode
