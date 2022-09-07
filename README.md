@@ -5,3 +5,4 @@ Implement the pop opcode
 Implement the swap opcode
 Implement the add opcode
 Implement the nop opcode
+Implement the sub opcode
