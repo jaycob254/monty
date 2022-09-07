@@ -7,3 +7,4 @@ Implement the add opcode
 Implement the nop opcode
 Implement the sub opcode
 Implement the div opcode
+Implement the mul opcode
